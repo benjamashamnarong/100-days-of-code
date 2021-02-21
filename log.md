@@ -275,7 +275,7 @@
 
 ### Day 27: February 21, 2021
 
-**Today's Progress**:  Stil got problem with disposing event stream object while changing screen
+**Today's Progress**:  Still got problem with disposing event stream object while changing screen
 
 **Thoughts** huh
 
