@@ -272,3 +272,13 @@
 **Link(s) to work**
 [bloc](https://pub.dev/packages/bloc)
 
+
+### Day 27: February 21, 2021
+
+**Today's Progress**:  Stil got problem with disposing event stream object while changing screen
+
+**Thoughts** huh
+
+**Link(s) to work**
+[bloc](https://pub.dev/packages/bloc)
+
