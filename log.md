@@ -282,3 +282,12 @@
 **Link(s) to work**
 [bloc](https://pub.dev/packages/bloc)
 
+
+### Day 28: February 22, 2021
+
+**Today's Progress**:  Solved event object disposing problem but found new issue with state that pass through context from parent widget
+
+**Thoughts** none
+
+**Link(s) to work**
+[bloc](https://pub.dev/packages/bloc)
