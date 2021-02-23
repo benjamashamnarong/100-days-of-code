@@ -291,3 +291,14 @@
 
 **Link(s) to work**
 [bloc](https://pub.dev/packages/bloc)
+
+
+### Day 29: February 23, 2021
+
+**Today's Progress**:  Tried to change the way using bloc with navigator because of retriving state from context in widget tree issue
+
+**Thoughts** none
+
+**Link(s) to work**
+[bloc](https://pub.dev/packages/bloc)
+
