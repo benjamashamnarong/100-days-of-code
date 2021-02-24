@@ -302,3 +302,13 @@
 **Link(s) to work**
 [bloc](https://pub.dev/packages/bloc)
 
+
+### Day 30: February 24, 2021
+
+**Today's Progress**:  finally, solved the issue using Bloc with Navigator
+
+**Thoughts** none
+
+**Link(s) to work**
+[bloc](https://pub.dev/packages/bloc)
+
