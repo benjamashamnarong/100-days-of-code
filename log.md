@@ -312,3 +312,14 @@
 **Link(s) to work**
 [bloc](https://pub.dev/packages/bloc)
 
+
+### Day 31: February 25, 2021
+
+**Today's Progress**:  Learnt Riverpod
+
+**Thoughts** none
+
+**Link(s) to work**
+[riverpod.dev](https://riverpod.dev/)
+
+
