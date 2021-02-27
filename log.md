@@ -332,3 +332,15 @@
 **Link(s) to work**
 [riverpod.dev](https://riverpod.dev/)
 
+
+### Day 33: February 27, 2021
+
+**Today's Progress**: followed Riverpod example, the todolist
+
+**Thoughts** none
+
+**Link(s) to work**
+1. [riverpod.dev](https://riverpod.dev/)
+2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/todos)
+
+
