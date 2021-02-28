@@ -344,3 +344,13 @@
 2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/todos)
 
 
+### Day 34: February 28, 2021
+
+**Today's Progress**: I'd like to spend more time on Riverpod's todolist example, confusing with how riverpod state works
+
+**Thoughts** none
+
+**Link(s) to work**
+1. [riverpod.dev](https://riverpod.dev/)
+2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/todos)
+
