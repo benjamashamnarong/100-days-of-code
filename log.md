@@ -366,3 +366,15 @@
 1. [riverpod.dev](https://riverpod.dev/)
 2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/todos)
 
+
+### Day 36: March 2, 2021
+
+**Today's Progress**: learnt about immutable object and using freezed to generate immuted class
+
+**Thoughts** none
+
+**Link(s) to work**
+1. [riverpod.dev](https://riverpod.dev/)
+2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/todos)
+
+
