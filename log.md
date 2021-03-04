@@ -389,3 +389,13 @@
 2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/marvel)
 
 
+### Day 38: March 4, 2021
+
+**Today's Progress**: moved to Flutter 2 and continued with marvel api
+
+**Thoughts** none
+
+**Link(s) to work**
+1. [riverpod.dev](https://riverpod.dev/)
+2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/marvel)
+
