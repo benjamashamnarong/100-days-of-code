@@ -399,3 +399,15 @@
 1. [riverpod.dev](https://riverpod.dev/)
 2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/marvel)
 
+
+### Day 39: March 5, 2021
+
+**Today's Progress**: tried to solved issues with Marvel API example code which doesn'y run as expect
+
+**Thoughts** none
+
+**Link(s) to work**
+1. [riverpod.dev](https://riverpod.dev/)
+2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/marvel)
+
+
