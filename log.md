@@ -402,7 +402,7 @@
 
 ### Day 39: March 5, 2021
 
-**Today's Progress**: tried to solved issues with Marvel API example code which doesn'y run as expect
+**Today's Progress**: tried to solve issues in Marvel API example code which doesn't run as expect
 
 **Thoughts** none
 
