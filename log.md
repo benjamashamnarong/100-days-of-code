@@ -422,3 +422,14 @@
 2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/marvel)
 
 
+### Day 41: March 7, 2021
+
+**Today's Progress**: Solved version conflict and may be 50% of state issue (still on Marvel API example) - -"
+
+**Thoughts** none
+
+**Link(s) to work**
+1. [riverpod.dev](https://riverpod.dev/)
+2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/marvel)
+
+
