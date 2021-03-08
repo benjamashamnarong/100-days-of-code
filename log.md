@@ -433,3 +433,15 @@
 2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/marvel)
 
 
+### Day 42: March 8, 2021
+
+**Today's Progress**: Finished Marvel API example!!
+
+**Thoughts** none
+
+**Link(s) to work**
+1. [riverpod.dev](https://riverpod.dev/)
+2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/marvel)
+
+
+
