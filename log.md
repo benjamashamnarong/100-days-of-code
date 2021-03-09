@@ -444,4 +444,13 @@
 2. [riverpod.dev](https://github.com/rrousselGit/river_pod/tree/master/examples/marvel)
 
 
+### Day 43: March 9, 2021
+
+**Today's Progress**: try to understand more about Flutter architecture from their overview guide
+
+**Thoughts** none
+
+**Link(s) to work**
+[Flutter architectural overview](https://flutter.dev/docs/resources/architectural-overview)
+
 
