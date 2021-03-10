@@ -454,3 +454,14 @@
 [Flutter architectural overview](https://flutter.dev/docs/resources/architectural-overview)
 
 
+### Day 44: March 10, 2021
+
+**Today's Progress**: work with small dart project for practicing
+
+**Thoughts** none
+
+**Link(s) to work**
+[startup-name-generator](https://github.com/rstacruz/startup-name-generator)
+
+
+
