@@ -464,4 +464,13 @@
 [startup-name-generator](https://github.com/rstacruz/startup-name-generator)
 
 
+### Day 45: March 11, 2021
+
+**Today's Progress**: create simple name generator lib with dart
+
+**Thoughts** none
+
+**Link(s) to work**
+[startup-name-generator](https://github.com/rstacruz/startup-name-generator)
+
 
