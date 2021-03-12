@@ -474,3 +474,13 @@
 [startup-name-generator](https://github.com/rstacruz/startup-name-generator)
 
 
+### Day 46: March 12, 2021
+
+**Today's Progress**: still working on name generator lib
+
+**Thoughts** none
+
+**Link(s) to work**
+[startup-name-generator](https://github.com/rstacruz/startup-name-generator)
+
+
