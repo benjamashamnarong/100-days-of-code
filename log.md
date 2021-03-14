@@ -494,3 +494,13 @@
 [startup-name-generator](https://github.com/rstacruz/startup-name-generator)
 
 
+### Day 48: March 14, 2021
+
+**Today's Progress**: deploy dart api server
+
+**Thoughts** none
+
+**Link(s) to work**
+[startup-name-generator](https://github.com/rstacruz/startup-name-generator)
+
+
