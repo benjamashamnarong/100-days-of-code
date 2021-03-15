@@ -504,3 +504,12 @@
 [startup-name-generator](https://github.com/rstacruz/startup-name-generator)
 
 
+### Day 49: March 15, 2021
+
+**Today's Progress**: try to consume API by creating small dart app running on command line
+
+**Thoughts** none
+
+**Link(s) to work**
+[Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
+
