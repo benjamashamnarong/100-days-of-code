@@ -513,3 +513,16 @@
 **Link(s) to work**
 [Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
 
+
+### Day 50: March 16, 2021
+
+**Today's Progress**: Fixed server-side API bug by replacing runZoned to runZonedGuarded
+
+**Thoughts** none
+
+**Link(s) to work**
+[Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
+
+
+
+
