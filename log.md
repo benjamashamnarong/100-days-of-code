@@ -524,5 +524,14 @@
 [Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
 
 
+### Day 51: March 17, 2021
+
+**Today's Progress**: created rest api from name generator lib for practicing
+
+**Thoughts** none
+
+**Link(s) to work**
+[Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
+
 
 
