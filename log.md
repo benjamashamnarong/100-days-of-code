@@ -534,4 +534,14 @@
 [Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
 
 
+### Day 52: March 18, 2021
+
+**Today's Progress**: created a mobile app for testing API calls
+
+**Thoughts** none
+
+**Link(s) to work**
+[Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
+
+
 
