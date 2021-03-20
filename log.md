@@ -553,3 +553,14 @@
 **Link(s) to work**
 [Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
 
+
+### Day 54: March 19, 2021
+
+**Today's Progress**: continued with the mobile app for testing API calls, tried to put what I'd read inside ^ ^"
+
+**Thoughts** none
+
+**Link(s) to work**
+[Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
+
+
