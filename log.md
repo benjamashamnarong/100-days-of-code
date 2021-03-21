@@ -564,3 +564,13 @@
 [Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
 
 
+### Day 55: March 19, 2021
+
+**Today's Progress**: continued with the mobile app for testing API calls, had problems with state management - -
+
+**Thoughts** none
+
+**Link(s) to work**
+[Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
+
+
