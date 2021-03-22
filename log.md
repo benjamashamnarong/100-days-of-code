@@ -554,7 +554,7 @@
 [Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
 
 
-### Day 54: March 19, 2021
+### Day 54: March 20, 2021
 
 **Today's Progress**: continued with the mobile app for testing API calls, tried to put what I'd read inside ^ ^"
 
@@ -564,10 +564,19 @@
 [Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
 
 
-### Day 55: March 19, 2021
+### Day 55: March 21, 2021
 
 **Today's Progress**: continued with the mobile app for testing API calls, had problems with state management - -
 
+**Thoughts** none
+
+**Link(s) to work**
+[Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
+
+
+### Day 56: March 22, 2021
+
+**Today's Progress**: continued working with small flutter mobile app for testing API calls but change to use state management library
 **Thoughts** none
 
 **Link(s) to work**
