@@ -583,3 +583,11 @@
 [Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
 
 
+### Day 57: March 23, 2021
+
+**Today's Progress**: refactored server-side API for working better with my testing flutter mobile app
+**Thoughts** none
+
+**Link(s) to work**
+[Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
+
