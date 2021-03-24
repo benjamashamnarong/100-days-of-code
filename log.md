@@ -591,3 +591,13 @@
 **Link(s) to work**
 [Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
 
+
+### Day 58: March 24, 2021
+
+**Today's Progress**: re-created riverpod's marvel api example for practicing with my API server
+**Thoughts** none
+
+**Link(s) to work**
+[Write HTTP clients & servers](https://dart.dev/tutorials/server/httpserver)
+
+
